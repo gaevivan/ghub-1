@@ -1,0 +1,7 @@
+  
+{
+    "port": 80,
+    "jwtSecret": "vladilen youtube mern",
+    "mongoUri": "mongodb+srv://ghub-1-dbuser:dbuser-ghub-1@cluster0.iczte.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://gaevstudio.com"
+}

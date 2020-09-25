@@ -1,0 +1,36 @@
+{
+  "name": "ghub-1",
+  "version": "1.0.0",
+  "description": "Hub-server number 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaevivan/ghub-1.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Gaev Ivan (@gaevivan, gaev93@ya.ru)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaevivan/ghub-1/issues"
+  },
+  "homepage": "https://github.com/gaevivan/ghub-1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "express-validator": "^6.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.1",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "cross-env": "^6.0.3",
+    "nodemon": "^2.0.2"
+  }
+}
